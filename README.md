@@ -4,7 +4,7 @@
   <img
     alt="Top Langs"
     height="150px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-nozue&layout=compact&theme=onedark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-nozue&layout=compact&show_icons=true&theme=onedark"
   />
   <img
     alt="GitHub Stats"
